@@ -32,3 +32,12 @@
 ### ⚡ Fun Fact:
 I believe "Technology isn't just code—it's a craft."  
 Always learning. Always building. 🚀
+
+---
+
+### 📊 GitHub Stats:
+![Visitors](https://komarev.com/ghpvc/?username=AkasK09&label=Profile+Views&color=0e75b6&style=flat)
+
+![Akas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkasK09&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkasK09&layout=compact&theme=tokyonight)
