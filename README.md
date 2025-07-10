@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Akash 👋</h1>
+<p align="center">
+  Aspiring Data Scientist • AI & ML Enthusiast • Tech Explorer
+</p>
 
-<!--
-**AkasK09/AkasK09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎓 About Me:
+- 🏫 B.Tech in Artificial Intelligence & Data Science @ RIT Chennai (2028)  
+- 💡 Passionate about *Machine Learning, **OCR*, and cool tech projects  
+- 🛠 Tech Stack: Python • Streamlit • OCR • SQLite • NLP
+- 🌱 Currently learning: Advanced ML & Computer Vision  
+- 🎯 Focused on building real-world, problem-solving apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects I'm Proud Of:
+- *Neural Gurus:* OCR-based Assignment Grading App  
+- *AI Agent:* Experimental Python AI Agent  
+- *Capstone Project:* Analytics Dashboard with Jupyter  
+(More coming soon!)
+
+---
+
+### 📫 How to Reach Me:
+- Email: [akash9091k.akash9091@gmail.com](mailto:akash9091k.akash9091@gmail.com)
+- LinkedIn: [Akash K](https://www.linkedin.com/in/akash-k-a12842327/)
+- Twitter: [@Akash_K03](https://twitter.com/Akash_K03)
+
+---
+
+### ⚡ Fun Fact:
+I believe "Technology isn't just code—it's a craft."  
+Always learning. Always building. 🚀
