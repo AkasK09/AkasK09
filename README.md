@@ -120,6 +120,6 @@
   
 **Thanks for visiting my profile! ⭐ Star some repositories if you find them interesting!**
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AkasK09/AkasK09/blob/output/github-contribution-grid-snake.svg)
 
 </div>
