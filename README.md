@@ -36,7 +36,7 @@
 ## 🔥 Streak Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash9091k&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkasK09&theme=radical" height="170"/>
 </p>
 
 ---
