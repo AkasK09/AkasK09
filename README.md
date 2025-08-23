@@ -77,6 +77,8 @@
 | **🏆 Impact** <br> 80% faster grading, teachers focus on teaching not grading | **🏆 Impact** <br> Featured in **SERVE-A-THON 2025** <br> Team: Ananda, Chidambaram, Aswin | **🏆 Impact** <br> Travel dreams → actionable plans in minutes, not hours |
 | [🔗 **Demo**](#) • [📝 **Code**](#) | [🔗 **Demo**](#) • [📝 **Code**](#) | [🔗 **Demo**](https://github.com/AkasK09/DesiGO-The_Travel_Planner) • [📝 **Code**](https://github.com/AkasK09/DesiGO-The_Travel_Planner) |
 
+
+
 </div>
 
 ## 📊 GitHub Analytics
@@ -91,6 +93,13 @@
 <div align="center">
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkasK09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+### 
+![](https://github-contributor-stats.vercel.app/api?username=AkasK09&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AkasK09&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
 
