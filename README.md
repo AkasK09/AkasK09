@@ -137,39 +137,6 @@
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
-
-## 🤝 Let's Build Something Amazing Together
-
-I'm not just looking for opportunities - I'm looking for **problems worth solving**. 
-
-**🔍 What I'm hunting for**: 
-- Internships where I can ship AI products that real people use
-- Projects that challenge me to learn something completely new
-- Teams that believe in building first, perfecting later
-
-**💡 What gets me excited**: 
-- Computer Vision projects (making machines see is pure magic)
-- Healthcare AI (because everyone deserves better health insights)
-- NLP applications (teaching machines to understand humans)
-- MLOps challenges (because great models deserve great deployment)
-
-**🎯 My 2024 Mission**: 
-- Contribute to **open-source ML projects** that matter
-- Complete **advanced AI certifications** (TensorFlow, AWS ML)
-- Land a **meaningful internship** where I can make real impact
-- Build an AI project that gets featured on **ProductHunt** 
-
-**☕ Coffee Chat Topics**: AI ethics, the future of work, why transformers changed everything, and how to explain gradient descent using pizza 🍕
-
-Hit me up if you're building something cool, need a passionate AI developer, or just want to discuss why Python is the best language ever invented!
-
----
-
-<div align="center">
-
-## 🐍 Contribution Activity
-
 ## 🐍 Contribution Activity
 
 <picture>
