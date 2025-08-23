@@ -8,7 +8,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-k-a12842327)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash9091k.akash@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio90akash.vercel.app/)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio90akash.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=AkasK09&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/AkasK09)
 
 </div>
