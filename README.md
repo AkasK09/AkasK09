@@ -94,28 +94,7 @@
 
 </div>
 
-## 🏆 What I've Unlocked So Far
 
-🐍 **Python Basics Certification** - Emax Company *(The gateway drug to AI addiction)*  
-🎓 **B.Tech AI & Data Science** - Graduating 2028 *(Currently 60% complete, 100% committed)*  
-🏥 **SERVE-A-THON 2025 Participant** - Healthcare AI Track *(Built MEDI-CHECK with my squad)*  
-📚 **Real Projects Under My Belt**: 3 working AI applications that solve actual problems  
-🌟 **Secret Superpower**: Explaining complex AI concepts in simple terms *(Ask me about neural networks!)*  
-
-### What I'm Actually Good At:
-- **Problem Identification**: I see inefficiencies everywhere and can't help but fix them
-- **Rapid Prototyping**: From idea to working demo in weekends, not months  
-- **AI Model Selection**: Choosing the right algorithm for the job (not just throwing deep learning at everything)
-- **User-Centric Design**: Building AI that people actually want to use
-
-## 🌍 How I Communicate With The World
-
-- 🇮🇳 **Tamil** - Native *(Perfect for explaining tech to my grandmother)*
-- 🇬🇧 **English** - Professional *(Documentation, presentations, and GitHub READMEs)*  
-- 🇮🇳 **Hindi** - Intermediate *(Bollywood movies taught me well)*
-- 🇯🇵 **Japanese** - Learning *(Because anime and AI both start with 'A')*
-
-**Fun Fact**: I debug in English, celebrate in Tamil, and dream in Python 🐍
 
 ## 📈 Contribution Activity
 
@@ -127,36 +106,6 @@
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
-
-## 🤝 Let's Build Something Amazing Together
-
-I'm not just looking for opportunities - I'm looking for **problems worth solving**. 
-
-**🔍 What I'm hunting for**: 
-- Internships where I can ship AI products that real people use
-- Projects that challenge me to learn something completely new
-- Teams that believe in building first, perfecting later
-
-**💡 What gets me excited**: 
-- Computer Vision projects (making machines see is pure magic)
-- Healthcare AI (because everyone deserves better health insights)
-- NLP applications (teaching machines to understand humans)
-- MLOps challenges (because great models deserve great deployment)
-
-**🎯 My 2024 Mission**: 
-- Contribute to **open-source ML projects** that matter
-- Complete **advanced AI certifications** (TensorFlow, AWS ML)
-- Land a **meaningful internship** where I can make real impact
-- Build an AI project that gets featured on **ProductHunt** 
-
-**☕ Coffee Chat Topics**: AI ethics, the future of work, why transformers changed everything, and how to explain gradient descent using pizza 🍕
-
-Hit me up if you're building something cool, need a passionate AI developer, or just want to discuss why Python is the best language ever invented!
-
----
-
-<div align="center">
 
 ## 🐍 Contribution Activity
 
