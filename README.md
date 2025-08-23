@@ -75,7 +75,7 @@
 | **🎯 The Challenge** <br> Teachers spending hours grading handwritten papers manually | **🎯 The Challenge** <br> People googling symptoms and making wrong health assumptions | **🎯 The Challenge** <br> Hours wasted researching destinations and creating itineraries |
 | **⚡ My Solution** <br> AI-powered OCR + NLP system that reads and grades handwriting with 95% accuracy | **⚡ My Solution** <br> Smart AI that analyzes symptoms + personal data to predict health risks rationally | **⚡ My Solution** <br> AI travel assistant that creates personalized trip plans instantly |
 | **🏆 Impact** <br> 80% faster grading, teachers focus on teaching not grading | **🏆 Impact** <br> Featured in **SERVE-A-THON 2025** <br> Team: Ananda, Chidambaram, Aswin | **🏆 Impact** <br> Travel dreams → actionable plans in minutes, not hours |
-|   [📝 **Code**]() | [🔗 **Demo**](https://medi-check.streamlit.app/) • [📝 **Code**](https://github.com/AkasK09/Medi-check.git) | [🔗 **Demo**](https://akask09.github.io/DesiGO-The_Travel_Planner/) • [📝 **Code**](https://github.com/AkasK09/DesiGO-The_Travel_Planner) |
+| [🔗 **Demo**](#) • [📝 **Code**](#) | [🔗 **Demo**](#) • [📝 **Code**](#) | [🔗 **Demo**](https://github.com/AkasK09/DesiGO-The_Travel_Planner) • [📝 **Code**](https://github.com/AkasK09/DesiGO-The_Travel_Planner) |
 
 </div>
 
@@ -94,7 +94,28 @@
 
 </div>
 
+## 🏆 What I've Unlocked So Far
 
+🐍 **Python Basics Certification** - Emax Company *(The gateway drug to AI addiction)*  
+🎓 **B.Tech AI & Data Science** - Graduating 2028 *(Currently 60% complete, 100% committed)*  
+🏥 **SERVE-A-THON 2025 Participant** - Healthcare AI Track *(Built MEDI-CHECK with my squad)*  
+📚 **Real Projects Under My Belt**: 3 working AI applications that solve actual problems  
+🌟 **Secret Superpower**: Explaining complex AI concepts in simple terms *(Ask me about neural networks!)*  
+
+### What I'm Actually Good At:
+- **Problem Identification**: I see inefficiencies everywhere and can't help but fix them
+- **Rapid Prototyping**: From idea to working demo in weekends, not months  
+- **AI Model Selection**: Choosing the right algorithm for the job (not just throwing deep learning at everything)
+- **User-Centric Design**: Building AI that people actually want to use
+
+## 🌍 How I Communicate With The World
+
+- 🇮🇳 **Tamil** - Native *(Perfect for explaining tech to my grandmother)*
+- 🇬🇧 **English** - Professional *(Documentation, presentations, and GitHub READMEs)*  
+- 🇮🇳 **Hindi** - Intermediate *(Bollywood movies taught me well)*
+- 🇯🇵 **Japanese** - Learning *(Because anime and AI both start with 'A')*
+
+**Fun Fact**: I debug in English, celebrate in Tamil, and dream in Python 🐍
 
 ## 📈 Contribution Activity
 
@@ -106,7 +127,46 @@
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+</div>
 
+## 🤝 Let's Build Something Amazing Together
+
+I'm not just looking for opportunities - I'm looking for **problems worth solving**. 
+
+**🔍 What I'm hunting for**: 
+- Internships where I can ship AI products that real people use
+- Projects that challenge me to learn something completely new
+- Teams that believe in building first, perfecting later
+
+**💡 What gets me excited**: 
+- Computer Vision projects (making machines see is pure magic)
+- Healthcare AI (because everyone deserves better health insights)
+- NLP applications (teaching machines to understand humans)
+- MLOps challenges (because great models deserve great deployment)
+
+**🎯 My 2024 Mission**: 
+- Contribute to **open-source ML projects** that matter
+- Complete **advanced AI certifications** (TensorFlow, AWS ML)
+- Land a **meaningful internship** where I can make real impact
+- Build an AI project that gets featured on **ProductHunt** 
+
+**☕ Coffee Chat Topics**: AI ethics, the future of work, why transformers changed everything, and how to explain gradient descent using pizza 🍕
+
+Hit me up if you're building something cool, need a passionate AI developer, or just want to discuss why Python is the best language ever invented!
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkasK09/AkasK09/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkasK09/AkasK09/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AkasK09/AkasK09/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
 
 **"Innovation distinguishes between a leader and a follower."** - Steve Jobs
 
