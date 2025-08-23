@@ -78,7 +78,7 @@
 - **The Magic**: Predicts top 3 possible conditions with probability scores + preventive tips
 - **Real Impact**: Featured in **SERVE-A-THON 2025** - helping people make informed health decisions
 - **Team**: Built with amazing teammates - Ananda Krishna, Chidambaram D, Aswin Ananth S
-- [🔗 **Try it Live**](#) | [📝 **Source Code**](#)
+- [🔗 **Try it Live**](https://medi-check.streamlit.app/) | [📝 **Source Code**](#)
 
 ### ✈️ DesiGO: The Smart Travel Planner
 **Because planning trips shouldn't be harder than the actual trip**
