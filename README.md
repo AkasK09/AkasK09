@@ -17,13 +17,18 @@
 
 ## 🚀 About Me
 
-🎓 **B.Tech AI & Data Science** student who turns ideas into intelligent solutions  
-💡 Built **3 AI-powered applications** that actually work - from healthcare predictions to travel planning  
-🌱 Currently diving deep into **Computer Vision** and **NLP** - because why stop at just predicting diseases?  
-🎯 On a mission to become an **AI/ML Engineer** who builds systems that make life easier  
-📍 Coding from Kanyakumari, Tamil Nadu - where the three seas meet, and ideas flow endlessly  
-🔍 Actively hunting for **internships** where I can ship real AI products, not just POCs  
-🌟 Believer in learning by building - every project teaches me something new about the magic of AI
+<div align="center">
+
+🎓 **B.Tech AI & Data Science** student who turns coffee into code and ideas into intelligent solutions  
+💡 Built **3 working AI applications** - from healthcare predictions to travel planning  
+🌱 Currently mastering **Computer Vision** and **NLP** because teaching machines to see and understand is pure magic  
+🎯 Mission: Become an **AI/ML Engineer** who ships products that actually make life easier  
+📍 Coding from Kanyakumari, Tamil Nadu - where three seas meet and endless possibilities flow  
+🔍 Actively seeking **internships** to build real AI products, not just demos  
+
+**🌟 Philosophy**: *Learn by building, fail fast, iterate faster, and never stop asking "what if?"*
+
+</div>
 
 ## 💻 Technical Skills
 
