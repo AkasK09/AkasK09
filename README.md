@@ -75,7 +75,7 @@
 | **🎯 The Challenge** <br> Teachers spending hours grading handwritten papers manually | **🎯 The Challenge** <br> People googling symptoms and making wrong health assumptions | **🎯 The Challenge** <br> Hours wasted researching destinations and creating itineraries |
 | **⚡ My Solution** <br> AI-powered OCR + NLP system that reads and grades handwriting with 95% accuracy | **⚡ My Solution** <br> Smart AI that analyzes symptoms + personal data to predict health risks rationally | **⚡ My Solution** <br> AI travel assistant that creates personalized trip plans instantly |
 | **🏆 Impact** <br> 80% faster grading, teachers focus on teaching not grading | **🏆 Impact** <br> Featured in **SERVE-A-THON 2025** <br> Team: Ananda, Chidambaram, Aswin | **🏆 Impact** <br> Travel dreams → actionable plans in minutes, not hours |
-| [🔗 **Demo**](#) • [📝 **Code**](#) | [🔗 **Demo**](https://medi-check.streamlit.app/) • [📝 **Code**](https://github.com/AkasK09/Medi-check.git) | [🔗 **Demo**](https://akask09.github.io/DesiGO-The_Travel_Planner/) • [📝 **Code**](https://github.com/AkasK09/DesiGO-The_Travel_Planner.git) |
+| Ongoing.. | [🔗 **Demo**](https://medi-check.streamlit.app/) • [📝 **Code**](https://github.com/AkasK09/Medi-check.git) | [🔗 **Demo**](https://akask09.github.io/DesiGO-The_Travel_Planner/) • [📝 **Code**](https://github.com/AkasK09/DesiGO-The_Travel_Planner.git) |
 
 
 
