@@ -144,26 +144,7 @@
 
 <br/>
 
-### ✨ Current Focus
 
-```yaml
-learning:
-  - Advanced Deep Learning Architectures
-  - Computer Vision & Image Processing
-  - Natural Language Processing
-  - MLOps and Model Deployment
-
-building:
-  - Smart Assessment System (OCR + NLP)
-  - Healthcare AI Solutions
-  - Intelligent Travel Assistants
-
-goals:
-  - Land an AI/ML Engineering Internship
-  - Contribute to Open Source AI Projects
-  - Master Production ML Systems
-
-```
 
 <br/>
 
