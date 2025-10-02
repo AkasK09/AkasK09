@@ -1,125 +1,171 @@
-# Hi there, I'm Akash K!👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Science+%26+AI+Engineer;B.Tech+AI+%26+DS+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-k-a12842327)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash9091k.akash@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://akashk-profile.netlify.app/)
-[![Profile Views](https://komarev.com/ghpvc/?username=AkasK09&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/AkasK09)
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Akash+K+👋;AI+%26+Data+Science+Engineer;Building+Intelligence%2C+One+Model+at+a+Time;Full+Stack+Developer+%7C+ML+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 About Me
+### <div align="center">I'm an AI & Data Science enthusiast 🤖 passionate about building intelligent systems 🧠 and solving real-world problems with machine learning 💡</div>  
 
-<div align="center">
+<br/>
 
-🎓 **B.Tech AI & Data Science** student who turns coffee into code and ideas into intelligent solutions  
-💡 Built **3 working AI applications** - from healthcare predictions to travel planning  
-🌱 Currently mastering **Computer Vision** and **NLP** because teaching machines to see and understand is pure magic  
-🎯 Mission: Become an **AI/ML Engineer** who ships products that actually make life easier  
-📍 Coding from Kanyakumari, Tamil Nadu - where three seas meet and endless possibilities flow  
-🔍 Actively seeking **internships** to build real AI products, not just demos  
-
-**🌟 Philosophy**: *Learn by building, fail fast, iterate faster, and never stop asking "what if?"*
-
-</div>
-
-## 💻 Technical Skills
-
-<div align="center">
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Database & Tools
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-| 🤖 **Smart Assessment System** | 🏥 **MEDI-CHECK Health AI** | ✈️ **DesiGO Travel Planner** |
-|:---:|:---:|:---:|
-| *Teaching machines to grade like humans, but faster* | *Your AI health buddy that never panics* | *Planning trips shouldn't be harder than the actual trip* |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![OCR](https://img.shields.io/badge/Tesseract-4285F4?style=flat&logo=google&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![API](https://img.shields.io/badge/APIs-009688?style=flat&logo=api&logoColor=white) ![ML](https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
-| **🎯 The Challenge** <br> Teachers spending hours grading handwritten papers manually | **🎯 The Challenge** <br> People googling symptoms and making wrong health assumptions | **🎯 The Challenge** <br> Hours wasted researching destinations and creating itineraries |
-| **⚡ My Solution** <br> AI-powered OCR + NLP system that reads and grades handwriting with 95% accuracy | **⚡ My Solution** <br> Smart AI that analyzes symptoms + personal data to predict health risks rationally | **⚡ My Solution** <br> AI travel assistant that creates personalized trip plans instantly |
-| **🏆 Impact** <br> 80% faster grading, teachers focus on teaching not grading | **🏆 Impact** <br> Featured in **SERVE-A-THON 2025** <br> Team: Ananda, Chidambaram, Aswin | **🏆 Impact** <br> Travel dreams → actionable plans in minutes, not hours |
-| Ongoing.. | [🔗 **Demo**](https://medi-check.streamlit.app/) • [📝 **Code**](https://github.com/AkasK09/Medi-check.git) | [🔗 **Demo**](https://akask09.github.io/DesiGO-The_Travel_Planner/) • [📝 **Code**](https://github.com/AkasK09/DesiGO-The_Travel_Planner.git) |
-
-
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
+- 🎓 **B.Tech AI & Data Science** student turning ideas into intelligent solutions
   
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AkasK09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-</div>
-
-<div align="center">
+- 🚀 Currently mastering **Computer Vision** and **Natural Language Processing** at [My College]
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkasK09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-### 
-![](https://github-contributor-stats.vercel.app/api?username=AkasK09&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+- 🌱 Built **3 production-ready AI applications** that solve real problems
+  
+- 💻 I build intelligent systems using **Python, TensorFlow, and Scikit-Learn**
+  
+- 🔍 Actively seeking **AI/ML Engineering Internships** to build impactful products
+  
+- 📍 Coding from **Kanyakumari, Tamil Nadu** - where innovation meets the ocean 🌊
+  
+- ⚡ Fun fact: I turn coffee into code and data into insights!
+
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AkasK09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ My Skill Set  
+<table><tr><td valign="top" width="33%">
 
+### 💻 Programming Languages  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
+</td><td valign="top" width="33%">
 
+### 🤖 AI/ML & Data Science  
+<div align="center">  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>  
+<a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="50" /></a>  
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="50" /></a>  
+<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/numpy-original.svg" alt="NumPy" height="50" /></a>  
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+### 🌐 Web & Cloud  
+<div align="center">  
+<a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>
+
+---
+
+## 📫 Connect with me  
+<div align="center">
+<a href="https://github.com/AkasK09" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/akash-k-a12842327" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:akash9091k.akash@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+<a href="https://akashk-profile.netlify.app/" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+<br/>
+
+---
+
+## 📊 Github Stats  
+<table align="center"><tr><td valign="top" width="50%">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AkasK09&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=tokyonight" align="center" style="width: 100%" /></div>  
+</td><td valign="top" width="50%">
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AkasK09&hide_border=true&theme=tokyonight" align="center" style="width: 100%" /></div>  
+</td></tr></table>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkasK09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" align="center" style="width: 50%" />
+</div>
+
+<br/>
+
+---
 
 ## 📈 Contribution Activity
 
-[![Akash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkasK09&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/AkasK09)
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkasK09&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" align="center" style="width: 100%" />
+</div>
 
-## 💭 Professional Philosophy
+<br/>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AkasK09&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" align="center" style="width: 100%" />
+</div>
+
+<br/>
+
+---
 
 <div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<br/>
 
+### ✨ Current Focus
 
+```yaml
+learning:
+  - Advanced Deep Learning Architectures
+  - Computer Vision & Image Processing
+  - Natural Language Processing
+  - MLOps and Model Deployment
 
-**"Innovation distinguishes between a leader and a follower."** - Steve Jobs
+building:
+  - Smart Assessment System (OCR + NLP)
+  - Healthcare AI Solutions
+  - Intelligent Travel Assistants
 
-*Thank you for visiting my profile! ⭐ Star repositories that interest you and let's build the future together!*
+goals:
+  - Land an AI/ML Engineering Internship
+  - Contribute to Open Source AI Projects
+  - Master Production ML Systems
+```
 
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=AkasK09&icon=2&color=0)](https://visitcount.itsvg.in)
+
+**Thanks for visiting! ⭐ Star my repositories if you find them interesting!**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
