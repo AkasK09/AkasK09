@@ -8,19 +8,36 @@
 
 <br/>
 
-- 🎓 **B.Tech AI & Data Science** student turning ideas into intelligent solutions
+
   
-- 🚀 Currently mastering **Computer Vision** and **Natural Language Processing** at [My College]
-  
-- 🌱 Built **3 production-ready AI applications** that solve real problems
-  
-- 💻 I build intelligent systems using **Python, TensorFlow, and Scikit-Learn**
-  
-- 🔍 Actively seeking **AI/ML Engineering Internships** to build impactful products
-  
-- 📍 Coding from **Kanyakumari, Tamil Nadu** - where innovation meets the ocean 🌊
-  
-- ⚡ Fun fact: I turn coffee into code and data into insights!
+<table align="center">
+  <tr>
+    <td align="center">
+
+[![Degree](https://img.shields.io/badge/🎓-B.Tech_AI_&_DS-4E9F3D?style=for-the-badge)]()  
+[![Focus](https://img.shields.io/badge/🚀-Computer_Vision_|_NLP-0081C9?style=for-the-badge)]()  
+[![Achievements](https://img.shields.io/badge/🏆-Hackathons_|_Internships-FF6B6B?style=for-the-badge)]()  
+
+   </td>
+   <td align="center">
+
+[![Skills](https://img.shields.io/badge/💻-Python_|_TensorFlow_|_ScikitLearn-FCC72C?style=for-the-badge)]()  
+[![Tools](https://img.shields.io/badge/🛠️-Git_|_VS_Code_|_SQL-FF9F29?style=for-the-badge)]()  
+[![Open Source](https://img.shields.io/badge/🌐-Open_Source_Contributor-00ADB5?style=for-the-badge)]()  
+
+   </td>
+   <td align="center">
+
+[![Internships](https://img.shields.io/badge/🔍-Seeking_AI/ML_Internships-E14D2A?style=for-the-badge)]()  
+[![Location](https://img.shields.io/badge/📍-Chennai,_Tamil_Nadu-8338EC?style=for-the-badge)]()  
+[![Languages](https://img.shields.io/badge/🌍-English_|_Tamil_|_Hindi-6A4C93?style=for-the-badge)]()  
+
+   </td>
+  </tr>
+</table>
+
+ 
+
 
 <br/>
 
@@ -48,8 +65,8 @@
 <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="50" /></a>  
-<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/numpy-original.svg" alt="NumPy" height="50" /></a>  
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="50" /></a>  
+<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" height="50" /></a>  
 <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="50" /></a>  
 </div>
 
@@ -101,10 +118,10 @@
 </td></tr></table>
 
 <br/>
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkasK09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" align="center" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkasK09&layout=donut-vertical&theme=tokyonight&langs_count=10&hide_border=true" alt="Top Languages" />
 </div>
+
 
 <br/>
 
@@ -114,15 +131,6 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkasK09&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" align="center" style="width: 100%" />
-</div>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AkasK09&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" align="center" style="width: 100%" />
 </div>
 
 <br/>
@@ -154,6 +162,7 @@ goals:
   - Land an AI/ML Engineering Internship
   - Contribute to Open Source AI Projects
   - Master Production ML Systems
+
 ```
 
 <br/>
