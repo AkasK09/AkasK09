@@ -146,13 +146,15 @@
 
 
 
-<br/>
+<div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=AkasK09&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AkashK09&label=Profile%20Views&color=6&icon=5)](https://visitcount.itsvg.in)
+
 
 **Thanks for visiting! ⭐ Star my repositories if you find them interesting!**
 
 </div>
+
 
 ---
 
