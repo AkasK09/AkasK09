@@ -146,7 +146,7 @@
 
 ---
 
----
+
 
 <div align="center">
 
@@ -156,32 +156,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=✨+Thanks+for+Visiting!+✨;⭐+Don't+Forget+to+Star+My+Repos!+⭐" alt="Typing SVG" />
 
   <br/><br/>
-
-  <!-- Glowing Gradient Bar -->
-  <img src="https://raw.githubusercontent.com/AkasK09/AkasK09/main/assets/neon_bar.gif" width="600" alt="Glowing Line" />
-
-  <br/><br/>
-
   <!-- Profile Visitor Counter -->
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=AkasK09&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
   </a>
 
   <br/><br/>
-
-  <!-- Tagline -->
-  <h3>🚀 Keep Coding | Keep Innovating | Keep Inspiring 💡</h3>
-
-  <br/>
-
-  <!-- Bottom Glow Line -->
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
-
-</div>
-
-
-
-
 ---
 
 <div align="center">
