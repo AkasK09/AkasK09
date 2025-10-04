@@ -105,7 +105,7 @@
     <img src="assets/githublogo.png" alt="GitHub" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="linkedin.com/in/akash-k-a12842327" target="_blank">
+  <a href="https://www.linkedin.com/in/akash-k-a12842327" target="_blank">
     <img src="assets/linkedinlogo.png" alt="LinkedIn" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
