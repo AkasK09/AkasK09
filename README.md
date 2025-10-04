@@ -2,7 +2,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Akash+K+👋;AI+%26+Data+Science+Engineer;Building+Intelligence%2C+One+Model+at+a+Time;Full+Stack+Developer+%7C+ML+Enthusiast" alt="Typing SVG" />
 </div>
 
----
+<!-- Neon Divider -->
+<p align="center">
+  <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
+</p>
 
 ### <div align="center">I'm an AI & Data Science enthusiast 🤖 passionate about building intelligent systems 🧠 and solving real-world problems with machine learning 💡</div>  
 
@@ -41,7 +44,10 @@
 
 <br/>
 
----
+<!-- Neon Divider -->
+<p align="center">
+  <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
+</p>
 
 ## 🛠️ My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -88,27 +94,37 @@
 
 <br/>
 
----
+<!-- Neon Divider -->
+<p align="center">
+  <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
+</p>
 
 ## 📫 Connect with me  
-<div align="center">
-<a href="https://github.com/AkasK09" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/akash-k-a12842327" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:akash9091k.akash@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
-<a href="https://akashk-profile.netlify.app/" target="_blank">
-<img src=https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<p align="center">
+  <a href="https://github.com/AkasK09" target="_blank">
+    <img src="assets/githublogo.png" alt="GitHub" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/akash-k-a12842327" target="_blank">
+    <img src="assets/linkedinlogo.png" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:akash9091k.akash@gmail.com" target="_blank">
+    <img src="assets/gmailogo.png" alt="Gmail" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://akashk-profile.netlify.app/" target="_blank">
+    <img src="assets/portfolio.png" alt="Portfolio" width="50" height="50"/>
+  </a>
+</p>
+
 
 <br/>
 
----
+<!-- Neon Divider -->
+<p align="center">
+  <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
+</p>
 
 ## 📊 Github Stats  
 <table align="center"><tr><td valign="top" width="50%">
@@ -127,7 +143,10 @@
 
 <br/>
 
----
+<!-- Neon Divider -->
+<p align="center">
+  <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
+</p>
 
 ## 📈 Contribution Activity
 
@@ -137,7 +156,10 @@
 
 <br/>
 
----
+<!-- Neon Divider -->
+<p align="center">
+  <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
+</p>
 
 <div align="center">
 
@@ -146,7 +168,10 @@
 
 <br/>
 
----
+<!-- Neon Divider -->
+<p align="center">
+  <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
+</p>
 
 
 
