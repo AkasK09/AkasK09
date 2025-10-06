@@ -128,7 +128,7 @@
 
 ## 📊 Github Stats  
 <table align="center"><tr><td valign="top" width="50%">
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AkasK09&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=tokyonight" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AkasK09&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=tokyonight" align="center" style=width: "100%" /></div>  
 </td><td valign="top" width="50%">
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AkasK09&hide_border=true&theme=tokyonight" align="center" style="width: 100%" /></div>  
 </td></tr></table>
