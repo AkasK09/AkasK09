@@ -103,7 +103,10 @@
   </tr>
 </table>
 
-
+<!-- 🌈 Neon Divider -->
+<p align="center">
+  <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
+</p>
 
 <!-- =============================== -->
 <!-- 🔗 CONNECT SECTION 🔗 -->
@@ -117,25 +120,38 @@
   <a href="https://akashk-profile.netlify.app/"><img src="assets/portfolio.png" width="50" height="50"/></a>
 </p>
 
-
+<!-- 🌈 Neon Divider -->
+<p align="center">
+  <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
+</p>
 
 <!-- =============================== -->
 <!-- 📊 GITHUB STATS SECTION 📊 -->
 <!-- =============================== -->
 
 ## 📊 GitHub Stats  
+<!-- 📊 GitHub Stats Section -->
 <table align="center">
   <tr>
+    <!-- Overall GitHub Stats -->
     <td valign="top" width="50%">
-      <!-- Overall Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=AkasK09&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=tokyonight" style="width:100%"/>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=AkasK09&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=tokyonight" 
+        alt="AkasK09's GitHub Stats"
+        style="width:100%;"
+      />
     </td>
+<!-- GitHub Streak Stats -->
     <td valign="top" width="50%">
-      <!-- Streak Stats -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkasK09&hide_border=true&theme=tokyonight" style="width:100%"/>
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=AkasK09&hide_border=true&theme=tokyonight" 
+        alt="AkasK09's GitHub Streak"
+        style="width:100%;"
+      />
     </td>
   </tr>
 </table>
+
 
 <!-- Language Usage -->
 <div align="center">
@@ -143,6 +159,10 @@
 </div>
 
 
+<!-- 🌈 Neon Divider -->
+<p align="center">
+  <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
+</p>
 
 <!-- =============================== -->
 <!-- 📈 CONTRIBUTION GRAPH 📈 -->
@@ -152,6 +172,11 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkasK09&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" style="width:100%"/>
 </div>
+
+<!-- 🌈 Neon Divider -->
+<p align="center">
+  <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
+</p>
 
 
 <!-- =============================== -->
@@ -163,7 +188,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
-
+<!-- 🌈 Neon Divider -->
+<p align="center">
+  <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
+</p>
 
 <!-- =============================== -->
 <!-- 🌟 OUTRO & PROFILE COUNTER 🌟 -->
