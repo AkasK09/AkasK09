@@ -69,7 +69,7 @@
         <a href="https://www.cprogramming.com/"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50"/></a>
         <a href="https://www.cplusplus.com/"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50"/></a>
         <a href="https://www.javascript.com/"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/></a>
-        <a href="https://www.gnu.org/software/bash/"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50"/></a>
+         <!--<a href="https://www.gnu.org/software/bash/"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50"/></a>-->
       </div>
     </td>
 <!-- 🤖 AI / ML -->
@@ -79,7 +79,7 @@
         <a href="https://www.tensorflow.org/"><img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" height="50"/></a>
         <a href="https://pytorch.org/"><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="50"/></a>
         <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/></a>
-        <a href="https://keras.io/"><img src="https://profilinator.rishav.dev/skills-assets/keras.png" height="50"/></a>
+        <!-- <a href="https://keras.io/"><img src="https://profilinator.rishav.dev/skills-assets/keras.png" height="50"/></a>-->
         <a href="https://opencv.org/"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50"/></a>
         <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50"/></a>
         <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50"/></a>
@@ -92,7 +92,7 @@
       <div align="center">
         <a href="https://streamlit.io/"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="50"/></a>
         <a href="https://flask.palletsprojects.com/"><img src="https://profilinator.rishav.dev/skills-assets/flask.png" height="50"/></a>
-        <a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/></a>
+       <!-- <a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/></a>-->
         <a href="https://www.w3schools.com/css/"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/></a>
         <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/></a>
         <a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/></a>
