@@ -117,7 +117,8 @@
   <a href="https://github.com/AkasK09"><img src="assets/githublogo.png" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/akash-k-a12842327"><img src="assets/linkedinlogo.png" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="mailto:akash9091k.akash@gmail.com"><img src="assets/gmailogo.png" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="https://akashk-profile.netlify.app/"><img src="assets/portfolio.png" width="50" height="50"/></a>
+  <a href="https://akashk-profile.netlify.app/"><img src="assets/portfolio.png" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1D1sUJMLm7UYz8l4Xxb-7CF4zK_pvtRKL/view?usp=sharing"><img src="assets/linkedinlogo.png" width="50" height="50"/></a>&nbsp;&nbsp;
 </p>
 
 <!-- 🌈 Neon Divider -->
