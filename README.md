@@ -169,17 +169,17 @@
 <!-- =============================== -->
 <!-- 📈 CONTRIBUTION GRAPH 📈 -->
 <!-- =============================== -->
-
+<!--
 ## 📈 Contribution Activity  
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkasK09&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" style="width:100%"/>
 </div>
 
-<!-- 🌈 Neon Divider -->
+<!-- 🌈 Neon Divider 
 <p align="center">
   <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
 </p>
-
+-->
 
 <!-- =============================== -->
 <!-- 💭 DEV QUOTE SECTION 💭 -->
