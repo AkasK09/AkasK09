@@ -3,7 +3,7 @@
 <!-- =============================== -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Akash+K+👋;AI+%26+Data+Science+Engineer;Building+Intelligence%2C+One+Model+at+a+Time;Full+Stack+Developer+%7C+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Akash+K+;AI+%26+Data+Science+Engineer;Building+Intelligence%2C+One+Model+at+a+Time;Full+Stack+Developer+%7C+ML+Enthusiast" alt="Typing SVG" />
 </div>
 
 <!-- 🌈 Neon Divider -->
@@ -15,7 +15,7 @@
 <!-- 🎯 SHORT INTRO TEXT 🎯 -->
 <!-- =============================== -->
 
-### <div align="center">I'm an AI & Data Science enthusiast 🤖 passionate about building intelligent systems 🧠 and solving real-world problems with machine learning 💡</div>  
+### <div align="center">I'm an AI & Data Science enthusiast  passionate about building intelligent systems  and solving real-world problems with machine learning </div>  
 
 
 <!-- =============================== -->
@@ -26,21 +26,21 @@
   <tr>
     <td align="center">
       <!-- 🎓 Education / Focus -->
-      <img src="https://img.shields.io/badge/🎓-B.Tech_AI_&_DS-4E9F3D?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/🚀-Computer_Vision_|_NLP-0081C9?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/🏆-Hackathons_|_Internships-FF6B6B?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-B.Tech_AI_&_DS-4E9F3D?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/-Computer_Vision_|_NLP-0081C9?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/-Hackathons_|_Internships-FF6B6B?style=for-the-badge" />
     </td>
     <td align="center">
       <!-- 💻 Tools & Skills -->
-      <img src="https://img.shields.io/badge/💻-Python_|_TensorFlow_|_ScikitLearn-FCC72C?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/🛠️-Git_|_VS_Code_|_SQL-FF9F29?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/🌐-Open_Source_Contributor-00ADB5?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-Python_|_TensorFlow_|_ScikitLearn-FCC72C?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/-Git_|_VS_Code_|_SQL-FF9F29?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/-Open_Source_Contributor-00ADB5?style=for-the-badge" />
     </td>
     <td align="center">
       <!-- 🌍 Personal Info -->
-      <img src="https://img.shields.io/badge/🔍-Seeking_AI/ML_Internships-E14D2A?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/📍-Chennai,_Tamil_Nadu-8338EC?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/🌍-English_|_Tamil_|_Hindi-6A4C93?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-Seeking_AI/ML_Internships-E14D2A?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/-Chennai,_Tamil_Nadu-8338EC?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/-English_|_Tamil_|_Hindi-6A4C93?style=for-the-badge" />
     </td>
   </tr>
 </table>
@@ -56,13 +56,13 @@
 <!-- ⚙️ SKILLS SECTION ⚙️ -->
 <!-- =============================== -->
 
-## 🛠️ My Skill Set  
+##  My Skill Set  
 
 <table>
   <tr>
     <!-- 💻 Programming Languages -->
     <td valign="top" width="33%">
-      <h3>💻 Programming Languages</h3>
+      <h3> Programming Languages</h3>
       <div align="center">
         <a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/></a>
         <a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/></a>
@@ -74,7 +74,7 @@
     </td>
 <!-- 🤖 AI / ML -->
     <td valign="top" width="33%">
-      <h3>🤖 AI/ML & Data Science</h3>
+      <h3> AI/ML & Data Science</h3>
       <div align="center">
         <a href="https://www.tensorflow.org/"><img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" height="50"/></a>
         <a href="https://pytorch.org/"><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="50"/></a>
@@ -88,7 +88,7 @@
     </td>
 <!-- 🌐 Web / Cloud -->
     <td valign="top" width="33%">
-      <h3>🌐 Web & Cloud</h3>
+      <h3> Web & Cloud</h3>
       <div align="center">
         <a href="https://streamlit.io/"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="50"/></a>
         <a href="https://flask.palletsprojects.com/"><img src="https://profilinator.rishav.dev/skills-assets/flask.png" height="50"/></a>
@@ -112,7 +112,7 @@
 <!-- 🔗 CONNECT SECTION 🔗 -->
 <!-- =============================== -->
 
-## 📫 Connect with Me  
+##  Connect with Me  
 <p align="center">
   <a href="https://github.com/AkasK09"><img src="assets/githublogo.png" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/akash-k-a12842327"><img src="assets/linkedinlogo.png" width="50" height="50"/></a>&nbsp;&nbsp;
@@ -131,7 +131,7 @@
 <!-- 📊 GITHUB STATS SECTION 📊 -->
 <!-- =============================== -->
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 <!-- 📊 GitHub Stats Section -->
 <table align="center">
   <tr>
@@ -185,7 +185,7 @@
 <!-- 💭 DEV QUOTE SECTION 💭 -->
 <!-- =============================== -->
 
-## 💭 Random Dev Quote  
+##  Random Dev Quote  
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
