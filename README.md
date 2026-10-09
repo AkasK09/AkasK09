@@ -205,7 +205,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=AkasK09&style=for-the-badge&color=00E0FF&label=Profile+Views)](https://komarev.com/ghpvc/?username=AkasK09)
 
 <!-- Outro Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=✨+Thanks+for+Visiting!+✨;⭐+Don't+Forget+to+Star+My+Repos!+⭐" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=+Thanks+for+Visiting!+;+Don't+Forget+to+Star+My+Repos!+⭐" alt="Typing SVG" />
 
 <!-- Bottom SVG Wave -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
