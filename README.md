@@ -190,10 +190,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div><!--  -->
 
-<!-- 🌈 Neon Divider -->
+<!-- 🌈 Neon Divider --
 <p align="center">
   <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
-</p> 
+</p>  -->
 
 <!-- =============================== -->
 <!-- 🌟 OUTRO & PROFILE COUNTER 🌟 -->
