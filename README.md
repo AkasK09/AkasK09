@@ -185,15 +185,15 @@
 <!-- 💭 DEV QUOTE SECTION 💭 -->
 <!-- =============================== -->
 
-##  Random Dev Quote  
+<!--  ##  Random Dev Quote  
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
+</div><!--  -->
 
 <!-- 🌈 Neon Divider -->
 <p align="center">
   <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
-</p>
+</p> 
 
 <!-- =============================== -->
 <!-- 🌟 OUTRO & PROFILE COUNTER 🌟 -->
@@ -204,8 +204,8 @@
 <!-- Profile Visitor Counter -->
 [![Profile Views](https://komarev.com/ghpvc/?username=AkasK09&style=for-the-badge&color=00E0FF&label=Profile+Views)](https://komarev.com/ghpvc/?username=AkasK09)
 
-<!-- Outro Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=+Thanks+for+Visiting!+;+Don't+Forget+to+Star+My+Repos!+⭐" alt="Typing SVG" />
+<!-- Outro Typing Animation 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=+Thanks+for+Visiting!+;+Don't+Forget+to+Star+My+Repos!+⭐" alt="Typing SVG" /> -->
 
 <!-- Bottom SVG Wave -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
